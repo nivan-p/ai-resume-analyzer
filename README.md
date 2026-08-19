@@ -23,12 +23,6 @@ An intelligent full-stack web application that helps candidates improve their in
 - Gemini API
 - Puppeteer
 
-## Status
-
-🚧 This project is currently under active development.
-
-The complete source code, documentation, screenshots, and deployment details will be uploaded shortly.
-
 Planned Repository Structure
 
 ```
